@@ -9,9 +9,7 @@ User can post and view videos.
 
 Social media functionality such as likes, comments, and follow is implemented.
 
-![Login](images/login.jpg)
-
-![Register](images/register.jpg)
+![Login](images/login.jpg) ![Register](images/register.jpg)
 
 ![Home](images/home.jpg)
 
