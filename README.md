@@ -9,8 +9,8 @@ User can post and view videos.
 
 Social media functionality such as likes, comments, and follow is implemented.
 
-![Login](images/login.jpg) ![Register](images/register.jpg)
+![Login](images/login.jpg | width=100)
 
-![Home](images/home.jpg)
+![Register](images/register.jpg)
 
-![Profile](images/profile.jpg)
+<img src="images/home.jpg" width="200" height="400" />
